@@ -1,4 +1,5 @@
 # Virtual Classroom Application
+![image](https://github.com/user-attachments/assets/e2e308d9-11e3-4e17-a86c-3d2a51700616)
 
 ## Overview
 
